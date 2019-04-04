@@ -1,3 +1,10 @@
+/*
+ *      Author: Christopher Gallagher
+ *        Due Date: April 4, 2019
+ * Description: Extra credit assignment where the task is to design a function that counts
+ *              the number of occurrences of a substring in a given string.
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
