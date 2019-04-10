@@ -1,8 +1,8 @@
 /*
  *        File: student-class.cc.extra_credit
  *      Author: Christopher Gallagher
- *        Date: April 08, 2019
- * Description: Student structure example with vectors.
+ *        Date: April 10, 2019
+ * Description: Student structure example with vectors. Extra credit.
  */
 
 #include <cstdlib>
